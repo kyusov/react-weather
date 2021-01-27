@@ -1,5 +1,5 @@
 # React-weather
-Небольшой pet проекты для просмотра погоды\
+Небольшой pet проект для просмотра погоды\
 Данные берутся отсюда: [openweathermap](https://openweathermap.org)
 
 # Todo
